@@ -1,5 +1,17 @@
-# NTPU-Introduction_to_Criminal_Procedure_Law
-北大刑事訴訟法的上課筆記
+# National Taipei University - Introduction to Criminal Procedure Law
+北大刑事訴訟法的上課筆記，僅留作記錄  
+有問題可以 PR，但我應該不會 Merge 😂  
+如果有人覺得有用就拿去用吧
+
+## 上課老師
+陳宗奇，[大國律師事務所合署律師](http://www.glgnlaw.com/members)  
+
+> 內容如果有錯都是我的問題，請不要騷擾老師
+
+## 目錄
+- [2022/10/24](221024.md)
+
+## 授權
 ```
 Copyright (c) 2022 Ming Chang.
 Permission is granted to copy, distribute and/or modify this document
